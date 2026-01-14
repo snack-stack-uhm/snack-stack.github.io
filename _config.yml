@@ -1,0 +1,8 @@
+title: Snack Stack
+description: Team 1 project at UH Manoa
+theme: jekyll-theme-cayman
+
+# Optional GitHub Pages config
+github:
+  is_project_page: true
+  repository_url: https://github.com/snack-stack-uhm/snack-stack
