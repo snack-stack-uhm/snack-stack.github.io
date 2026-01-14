@@ -307,3 +307,5 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 <img src="assets/m4/githubicon.png" width="15" height="15">[Amy Shin](https://github.com/tlsdbfla00)  
 <img src="assets/m4/githubicon.png" width="15" height="15">[Jared Seto](https://github.com/jseto808)  
 
+## Team Contract
+[Link to Team Contract](https://docs.google.com/document/d/1agUDEXML0mpS8pNNdEmx55DyYQOOBeRJWTL9lC9QDy4/edit?usp=sharing)
