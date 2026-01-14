@@ -35,6 +35,7 @@ title: Snack Stack
     - [Milestone 6 Progress](#milestone-6-progress)
     - [Milestone 7 Progress](#milestone-7-progress)
   - [Development Team](#development-team)
+  - [Team Contract](#team-contract-1)
 
 <!--
 comment out add in later as we progress through project
@@ -92,7 +93,7 @@ The live site can be accessed here: [Snack Stack](https://pantry-pal-gamma.verce
 ---
 
 ## Team Contract
-[Link to Team Contract](https://docs.google.com/document/d/1QSisK4_q7C7179ZbYHU2LISKLjH-Tgl0kmKb8poIX38/edit?usp=sharing)
+[Link to Team Contract](https://docs.google.com/document/d/1agUDEXML0mpS8pNNdEmx55DyYQOOBeRJWTL9lC9QDy4/edit?usp=sharing)
 
 <!-- PDF.js settings -->
 <div id="pdf-viewer" style="
